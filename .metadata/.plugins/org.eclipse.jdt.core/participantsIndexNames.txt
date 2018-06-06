@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2293647012.index
+\taobao-manager-web\src\main\java
