@@ -240,3 +240,9 @@ Caused by: org.xml.sax.SAXParseExceptionpublicId: platform:/resource/taobao-mana
 
 !ENTRY org.eclipse.core.resources 4 380 2018-06-06 17:30:48.099
 !MESSAGE The resource tree is locked for modifications.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-06 17:36:33.894
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-06 17:36:33.922
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
