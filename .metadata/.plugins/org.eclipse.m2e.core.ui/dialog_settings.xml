@@ -2,18 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.taobao"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="taobao-manager-web"/>
-			<item value="taobao-manager"/>
-			<item value="taobao-manager-service"/>
-			<item value="taobao-manager-mapper"/>
-			<item value="taobao-manager-pojo"/>
-			<item value="taobao-parent"/>
-			<item value="taobao-common"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -49,7 +41,20 @@
 		<item value="480" key="width"/>
 		<item value="1253" key="x"/>
 		<item value="136" key="y"/>
-		<item value="588" key="height"/>
+		<item value="590" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\testSpace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
@@ -80,6 +85,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\testSpace\taobao-manager"/>
 			<item value="D:\testSpace\taobao-common"/>
 			<item value="D:\testSpace\taobao-parent"/>
 		</list>
@@ -94,13 +100,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.taobao.manager.web"/>
+			<item value="com.taotao"/>
 		</list>
 		<list key="groupId">
-			<item value="com.taobao"/>
+			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
-			<item value="taobao-manager-web"/>
+			<item value="sd"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

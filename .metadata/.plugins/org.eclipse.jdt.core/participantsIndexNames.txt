@@ -3,3 +3,9 @@ D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2293647012.in
 \taobao-manager-web\src\main\java
 D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1093918719.index
 \taobao-manager-web\src\main\java
+D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719301528.index
+\sd\src\main\resources
+D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3704180160.index
+\taobao-manager-web\src\main\java
+D:\testSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2971008182.index
+\taobao-manager-web\src\main\java
