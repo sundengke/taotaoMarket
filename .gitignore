@@ -1,2 +1,13 @@
 /.metadata/
-/taobao-manager/
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+target/
+.idea/*
+.settings/
+.project
+.classpath
+.DS_Store
